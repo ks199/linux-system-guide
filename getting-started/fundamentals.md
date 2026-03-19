@@ -1,9 +1,6 @@
-1. What is an Operating System (OS)?
-	An Operating System (OS) is software that acts as a bridge between hardware and user/applications.
-	Examples:
-	Linux
-	Windows
-	macOS
+What is an Operating System (OS)?
+
+An Operating System (OS) is software that acts as a bridge between hardware and user/applications. Examples: Linux, Windows, macOS
 
 Main Responsibilities of OS:
 	Hardware Management
